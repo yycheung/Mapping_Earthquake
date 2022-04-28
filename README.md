@@ -10,6 +10,6 @@ We used the JavaScript and the D3.js library to retrieve the coordinates and mag
 Feel free to visit our interactive webpage with earthquakes information. 
 https://yycheung.github.io/Mapping_Earthquake/
 
-![](static/image/webpage.png)
+![](Earthquake_Challenge/static/image/webpage.png)
 
 
