@@ -7,8 +7,6 @@ The purpose of this project is to create an interactive map with earthquakes inf
 We used the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. Besides, we use the Leaflet library to plot the data on a Mapbox map through an API request and create interactivity for the earthquake data.
 
 ## Result
-Feel free to visit our interactive webpage with earthquakes information. 
-https://yycheung.github.io/Mapping_Earthquake/
 
 ![](Earthquake_Challenge/static/image/webpage.png)
 
