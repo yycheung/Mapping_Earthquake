@@ -130,3 +130,5 @@ dmypy.json
 
 config.js
 .config.js
+.Rhistory
+.DS_Store
